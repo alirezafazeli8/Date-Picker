@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "date-fns": "^2.27.0"
+  },
+  "name": "datepicker_project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
